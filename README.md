@@ -1,5 +1,13 @@
-para rodar o codigo basta clonar o repositorio > dar um npm i > e um npm start
+siga a sequencia agora para rodar o projeto
 
-no arquivo em pdf dentro da pasta public, se encontram as respostas para o teste!
+cd src/backend
 
-obrigado e espero que gostem do meu trabalho!
+node injetarDados.js
+
+node server.js
+
+volte para a pasta src ( cd .. )
+
+npm start 
+
+:)
